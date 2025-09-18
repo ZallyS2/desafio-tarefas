@@ -45,7 +45,7 @@ A aplicação expõe uma série de endpoints para manipular os dados de tarefas.
 
 1.  **Clone o Repositório**:
     ```bash
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+    git clone https://github.com/ZallyS2/desafio-tarefas.git
     ```
 2.  **Configurar a String de Conexão**:
     No arquivo `appsettings.json`, atualize a `ConnectionStrings` para apontar para seu banco de dados local.
